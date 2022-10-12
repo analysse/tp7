@@ -90,15 +90,6 @@ body {
 #columns div#equipment{ flex-basis:20%; }
 #columns div#directions{ flex-basis:50%; }
 
-#columns #ingredients ul,
-#columns #equipment ul, 
-#columns #directions ol { display: none; }
-
-#columns #ingredients.tpShow ul, 
-#columns #equipment.tpShow ul, 
-#columns #directions.tpShow ol{
-  display: block;
-}
 
 * {
   box-sizing: border-box;
